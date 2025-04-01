@@ -10,9 +10,12 @@ website:
       - about.qmd
       - href: hanke_etal_2020_report.html
         text: Report
+      - href: qc_report.html
+        text: QC_report
 
 resources:
   - hanke_etal_2020_report.html
+  - qc_report.html
 
 format:
   html:
